@@ -1,4 +1,4 @@
-# Weather App
+# Notes App
 
 A simple NodeJs Note taking application.
 
